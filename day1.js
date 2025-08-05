@@ -74,7 +74,7 @@ for (let i = 1; i <= 20; i++){
         }
         if (isprime == true) console.log(i)
     }
-}
+} 
 let j = 0;
 while (j < houses.length){
     console.log(houses[j])
